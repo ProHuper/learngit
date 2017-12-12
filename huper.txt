@@ -3,3 +3,4 @@ and he's so stupid!
 added version 1.
 added version 2.
 added version 3.
+added stage test.
